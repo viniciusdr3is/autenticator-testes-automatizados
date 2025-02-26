@@ -1,5 +1,5 @@
 # Pré-requisitos
-É necessário clonar esse projeto do repositorio fornecido pela empresa do git.
+É necessário clonar esse projeto do repositorio fornecido pela empresa no git informado.<br>
 O projeto utiliza Python instalado, ambiente virtual venv e dependências PIP que estao no arquivo requiments.txt
 
 Eu utilizei a versao 10.8.3 do npm. Recomendo que você use as mesmas versões ou versões mais recentes.
