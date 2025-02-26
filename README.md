@@ -13,3 +13,4 @@ Instale o cypress npm install cypress --save-dev
 ## Testes
 Execute npm test (ou npm t para a versão curta) para rodar os testes em modo headless.
 Ou, execute npm run cy:open para abrir o Cypress em modo interativo.
+
