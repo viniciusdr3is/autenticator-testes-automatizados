@@ -7,7 +7,7 @@ Recomendo que você use as mesmas versões ou versões mais recentes.
 
 ## Instalação
 Seguir os passos do arquivo README.md fornecedio no git da empresa.
-Execute npm install (ou npm i para a versão curta) para instalar as dependências de desenvolvimento dos testes para utilizar com cypress.
+Execute npm install (ou npm i para a versão curta) para instalar as dependências de desenvolvimento dos testes para utilizar com cypress.<br>
 Instale o cypress npm install cypress --save-dev
 
 ## Testes
